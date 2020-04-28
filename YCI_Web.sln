@@ -1,0 +1,35 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 10.00
+# Visual Studio 2008
+Project("{E24C65DC-7377-472B-9ABA-BC803B73C61A}") = "YCI_Web", ".", "{BB2B499E-3090-4FD0-B456-FF7BF772F163}"
+	ProjectSection(WebsiteProperties) = preProject
+		TargetFramework = "3.5"
+		Debug.AspNetCompiler.VirtualPath = "/YCI_Web"
+		Debug.AspNetCompiler.PhysicalPath = "D:\NR_Savlani\YCI_Web\"
+		Debug.AspNetCompiler.TargetPath = "PrecompiledWeb\YCI_Web\"
+		Debug.AspNetCompiler.Updateable = "true"
+		Debug.AspNetCompiler.ForceOverwrite = "true"
+		Debug.AspNetCompiler.FixedNames = "false"
+		Debug.AspNetCompiler.Debug = "True"
+		Release.AspNetCompiler.VirtualPath = "/YCI_Web"
+		Release.AspNetCompiler.PhysicalPath = "D:\NR_Savlani\YCI_Web\"
+		Release.AspNetCompiler.TargetPath = "PrecompiledWeb\YCI_Web\"
+		Release.AspNetCompiler.Updateable = "true"
+		Release.AspNetCompiler.ForceOverwrite = "true"
+		Release.AspNetCompiler.FixedNames = "false"
+		Release.AspNetCompiler.Debug = "False"
+		VWDPort = "50572"
+	EndProjectSection
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|.NET = Debug|.NET
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{BB2B499E-3090-4FD0-B456-FF7BF772F163}.Debug|.NET.ActiveCfg = Debug|.NET
+		{BB2B499E-3090-4FD0-B456-FF7BF772F163}.Debug|.NET.Build.0 = Debug|.NET
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
